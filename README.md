@@ -2,7 +2,7 @@
 
 ### Requirements
 
-- Create web application with nextjs and atlas mongodb
+- Create web application with nextjs, typescript and atlas mongodb
 
 - Use firebase for user authentication
 
